@@ -1,0 +1,5 @@
+C:\Users\rusla\OneDrive\Рабочий стол\С#\Examples\Examples001_HelloConsole\Examples002_HelloConsole\obj\Debug\net6.0\Examples002_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\rusla\OneDrive\Рабочий стол\С#\Examples\Examples001_HelloConsole\Examples002_HelloConsole\obj\Debug\net6.0\Examples002_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\OneDrive\Рабочий стол\С#\Examples\Examples001_HelloConsole\Examples002_HelloConsole\obj\Debug\net6.0\Examples002_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\rusla\OneDrive\Рабочий стол\С#\Examples\Examples001_HelloConsole\Examples002_HelloConsole\obj\Debug\net6.0\Examples002_HelloConsole.AssemblyInfo.cs
+C:\Users\rusla\OneDrive\Рабочий стол\С#\Examples\Examples001_HelloConsole\Examples002_HelloConsole\obj\Debug\net6.0\Examples002_HelloConsole.csproj.CoreCompileInputs.cache
